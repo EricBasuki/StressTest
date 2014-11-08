@@ -1,0 +1,6 @@
+C:\Users\Eric(Work)\Documents\Visual Studio 2005\Projects\StressTest\StressTest\bin\Debug\StressTest.exe
+C:\Users\Eric(Work)\Documents\Visual Studio 2005\Projects\StressTest\StressTest\bin\Debug\StressTest.pdb
+C:\Users\Eric(Work)\Documents\Visual Studio 2005\Projects\StressTest\StressTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric(Work)\Documents\Visual Studio 2005\Projects\StressTest\StressTest\obj\Debug\StressTest.exe
+C:\Users\Eric(Work)\Documents\Visual Studio 2005\Projects\StressTest\StressTest\obj\Debug\StressTest.pdb
+C:\Users\Eric(Work)\Documents\Visual Studio 2005\Projects\StressTest\StressTest\bin\Debug\StressTest.exe.config
